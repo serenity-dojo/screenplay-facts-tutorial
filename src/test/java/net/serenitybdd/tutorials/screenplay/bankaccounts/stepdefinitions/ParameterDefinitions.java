@@ -1,4 +1,4 @@
-package starter.stepdefinitions;
+package net.serenitybdd.tutorials.screenplay.bankaccounts.stepdefinitions;
 
 import io.cucumber.java.ParameterType;
 import net.serenitybdd.screenplay.Actor;

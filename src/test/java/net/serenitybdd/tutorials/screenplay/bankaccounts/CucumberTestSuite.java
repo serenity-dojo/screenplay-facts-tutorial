@@ -1,4 +1,4 @@
-package starter;
+package net.serenitybdd.tutorials.screenplay.bankaccounts;
 
 import io.cucumber.junit.CucumberOptions;
 import net.serenitybdd.cucumber.CucumberWithSerenity;
