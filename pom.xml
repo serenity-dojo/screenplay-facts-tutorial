@@ -11,7 +11,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <serenity.version>2.3.6</serenity.version>
+        <serenity.version>2.3.8-SNAPSHOT</serenity.version>
         <serenity.maven.version>2.3.6</serenity.maven.version>
         <serenity.cucumber.version>2.3.6</serenity.cucumber.version>
         <encoding>UTF-8</encoding>
@@ -85,7 +85,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.12</version>
+            <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
         <dependency>
